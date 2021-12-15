@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Haunted house.unity
+    guid: ac7fadf82396a754e8f8ae2b3622b6ff
   m_configObjects: {}
